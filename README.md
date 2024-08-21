@@ -7,7 +7,7 @@ Repo for holding all of the code used in the Learn Go with Tests course: https:/
 All modules in the Learning Go with Tests course are each assigned their own branch for development.
 
 - [x] Hello, World
-- [ ] Integers
+- [x] Integers
 - [ ] Iteration
 - [ ] Arrays and slices
 - [ ] Structs, methods, and interfaces
