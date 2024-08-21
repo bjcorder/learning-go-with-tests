@@ -9,7 +9,7 @@ All modules in the Learning Go with Tests course are in their respective directo
 - [x] Hello, World
 - [x] Integers
 - [x] Iteration
-- [ ] Arrays and slices
+- [x] Arrays and slices
 - [ ] Structs, methods, and interfaces
 - [ ] Pointers and errors
 - [ ] Maps
