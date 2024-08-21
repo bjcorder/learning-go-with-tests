@@ -4,7 +4,7 @@ Repo for holding all of the code used in the Learn Go with Tests course: https:/
 
 ## Modules
 
-All modules in the Learning Go with Tests course are each assigned their own branch for development.
+All modules in the Learning Go with Tests course are in their respective directory
 
 - [x] Hello, World
 - [x] Integers
