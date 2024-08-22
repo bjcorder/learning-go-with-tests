@@ -10,7 +10,7 @@ All modules in the Learning Go with Tests course are in their respective directo
 - [x] Integers
 - [x] Iteration
 - [x] Arrays and slices
-- [ ] Structs, methods, and interfaces
+- [x] Structs, methods, and interfaces
 - [ ] Pointers and errors
 - [ ] Maps
 - [ ] Dependency Injection
