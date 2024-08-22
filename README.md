@@ -12,7 +12,7 @@ All modules in the Learning Go with Tests course are in their respective directo
 - [x] Arrays and slices
 - [x] Structs, methods, and interfaces
 - [x] Pointers and errors
-- [ ] Maps
+- [x] Maps
 - [ ] Dependency Injection
 - [ ] Mocking
 - [ ] Concurrency
